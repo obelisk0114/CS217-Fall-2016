@@ -1,1 +1,1 @@
-# CS217-Fall-2016
+# CS217 GPU Architecture and Parallel Programming - Fall 2016
