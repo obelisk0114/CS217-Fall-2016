@@ -15,6 +15,6 @@ printf "Layers: $layers \n\n"
 printf "Original source code: \n\n"
 time $ORIGINAL $layers
 printf "\n"
-printf "CUDA code: \n"
+printf "CUDA code: \n\n"
 time $TARGET $layers
 
